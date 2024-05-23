@@ -46,5 +46,5 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir com seus 
 
 ## Licença
 
-Este repositório está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este repositório está licenciado sob a licença MIT. Veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
