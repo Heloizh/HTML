@@ -15,23 +15,23 @@ A estrutura do repositório é organizada da seguinte forma:
 
 ```
 /
-|-- paginas-simples/
-|   |-- pagina-exemplo1.html
-|   |-- pagina-exemplo2.html
+|-- projeto1/
+|   |-- index.html
+|   |-- style.css
+|   |-- README.md
 |
 |
-|-- exemplos-praticos/
-|   |-- exemplo-formulario.html
-|   |-- exemplo-galeria.html
+|-- projetoN/
+|   |-- index.html
+|   |-- style.html
+|   |-- README.md
 |
-|-- README.md
 ```
 
 ### Descrição dos Diretórios
 
-- **paginas-simples/**: Contém exemplos básicos de páginas HTML que cobrem conceitos fundamentais.
-- **exemplos-praticos/**: Exemplos de funcionalidades específicas, como formulários, galerias de imagens, etc.
-
+- **Projeto1/**: Contém scripts diversos com suas funcionalidades específicas.
+- **ProjetoN/**: Representa outros projetos, cada um com seu próprio conjunto de arquivos.
 
 ## Como Contribuir
 
