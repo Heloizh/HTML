@@ -28,7 +28,7 @@ O projeto é composto pelos seguintes arquivos e diretórios:
 
 - `index.html`: O arquivo HTML principal que contém a estrutura da página.
 - `styles.css`: O arquivo CSS que contém os estilos da página.
-- `imagens/`: Diretório contendo as imagens utilizadas nos cards e os créditos dos fotógrafos.
+- `images/`: Diretório contendo as imagens utilizadas nos cards e os créditos dos fotógrafos.
 
 ## Contribuição
 
