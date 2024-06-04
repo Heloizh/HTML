@@ -1,6 +1,4 @@
-Aqui está o README atualizado com partes do código HTML e CSS incluídas:
 
----
 
 # Juice Shop Website
 
