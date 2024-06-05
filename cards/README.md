@@ -1,5 +1,7 @@
 # Cards Interativos Web App
 
+![images](cards/projeto/cards_page.png)
+
 Uma aplicação web que exibe cards interativos. Ao clicar em um card, ele expande para mostrar uma imagem e informações detalhadas, enquanto os outros cards voltam ao seu estado original.
 
 ## Descrição
