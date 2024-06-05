@@ -2,6 +2,8 @@
 
 # Juice Shop Website
 
+![image]()
+
 ## Descrição
 
 Este é um projeto de uma página web desenvolvida utilizando HTML, CSS e JavaScript. A página está atualmente em desenvolvimento e visa criar uma plataforma para a exibição de produtos, especificamente sucos. O projeto foca na responsividade e na criação de um menu de navegação funcional.
