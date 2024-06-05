@@ -2,7 +2,7 @@
 
 # Juice Shop Website
 
-![image]()
+![image](ShopJuice/projeto/shopjuice_prototipo.png)
 
 ## Descrição
 
