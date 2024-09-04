@@ -1,6 +1,6 @@
 # Navbar Component
 
-![Navbar](Navbar/nav__image.png)
+![Navbar](./Navbar/nav__image.png)
 
 
 ## Descrição
