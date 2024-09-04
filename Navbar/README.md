@@ -1,12 +1,12 @@
-#Navbar Component
+# Navbar Component
 
-![Navbar](nav__image.ong)
+![Navbar](./Navbar/nav__image.ong)
 
 
-##Descrição
+## Descrição
 Este componente de barra de navegação (navbar) é uma parte crucial de um site, projetado para fornecer uma experiência de usuário intuitiva e acessível. Ele inclui uma logo, opções de páginas, um campo de pesquisa, um menu, um carrinho e uma seção de login. O componente foi desenvolvido para demonstrar habilidades em criação e implementação de interfaces de usuário e é um dos componentes principais do meu projeto de portfólio.
 
-##Funcionalidades
+## Funcionalidades
 Logo: Exibe a logo da marca ou site, que geralmente é clicável e leva à página inicial.
 Opções de Páginas: Inclui links para as principais páginas do site, como "Home", "Sobre", "Serviços", e "Contato".
 Campo de Pesquisa: Permite aos usuários realizar buscas por conteúdo no site.
@@ -17,7 +17,7 @@ Tecnologias Utilizadas
 HTML: Estrutura básica do componente.
 CSS: Estilização da barra de navegação, incluindo layout, cores e fontes.
 
-##Clone o Repositório
+## Clone o Repositório
 
 bash
 Copiar código
@@ -31,7 +31,7 @@ Abra o Arquivo HTML
 
 Abra o arquivo index.html no seu navegador para visualizar o componente em ação.
 
-##Personalize o Componente
+## Personalize o Componente
 
 Substitua o texto e os links das opções de páginas conforme necessário.
 Atualize o logo com o arquivo de imagem desejado.
@@ -40,10 +40,10 @@ Exemplo
 Veja um exemplo básico de como o componente é renderizado:
 
 
-##Contribuições
+## Contribuições
 Sinta-se à vontade para contribuir com melhorias ou ajustes para este componente. Crie uma issue ou envie um pull request com suas sugestões!
 
-##Contato
+## Contato
 Se você tiver alguma dúvida ou sugestão, entre em contato com:
 
 email: eloisamartins.trabalho@gmail.com
