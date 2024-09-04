@@ -1,8 +1,5 @@
 # Navbar Component
 
-![Navbar](Navbar/nav__image.png)
-
-
 
 ## Descrição
 Este componente de barra de navegação (navbar) é uma parte crucial de um site, projetado para fornecer uma experiência de usuário intuitiva e acessível. Ele inclui uma logo, opções de páginas, um campo de pesquisa, um menu, um carrinho e uma seção de login. O componente foi desenvolvido para demonstrar habilidades em criação e implementação de interfaces de usuário e é um dos componentes principais do meu projeto de portfólio.
