@@ -1,6 +1,6 @@
 # Navbar Component
 
-![Navbar](assents/nav__image.ong)
+![Navbar](assents/nav__image.png)
 
 
 ## Descrição
