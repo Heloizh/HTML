@@ -1,6 +1,6 @@
 # Navbar Component
 
-![Navbar](./Navbar/nav__image.png)
+![Navbar]( https://github.com/Heloizh/HTML.git/Navbar/nav__image.png)
 
 
 ## Descrição
