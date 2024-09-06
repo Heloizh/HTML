@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="../code/css/style.css">
+    <link rel="stylesheet" href="../pagina principal/home.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+</head>
+<body>
+    <div id="index"></div>
+
+
+    <section id="scrolling">
+
+
+        <div class="container__products">
+            <div class="swiper scrolling-slider">
+                <div class="swiper-wrapper"></div>
+                    <div class="swiper-slide scrolling-slider"></div>
+                        <div class="scrolling-slide-img">
+                            <img src="../design/pins/juices/img-11.png" alt="juice">
+                        </div>
+                     </div>
+
+                     <div class="swiper scrolling-slider">
+                        <div class="swiper-wrapper"></div>
+                            <div class="swiper-slide scrolling-slider"></div>
+                                <div class="scrolling-slide-img">
+                                    <img src="../design/pins/juices/img-10.png" alt="juice">
+                                </div>
+                             </div>
+
+                             <div class="swiper scrolling-slider">
+                                <div class="swiper-wrapper"></div>
+                                    <div class="swiper-slide scrolling-slider"></div>
+                                        <div class="scrolling-slide-img">
+                                            <img src="../design/pins/juices/img-9.png" alt="juice">
+                                        </div>
+                                     </div>
+
+                                     <div class="swiper scrolling-slider">
+                                        <div class="swiper-wrapper"></div>
+                                            <div class="swiper-slide scrolling-slider"></div>
+                                                <div class="scrolling-slide-img">
+                                                    <img src="../design/pins/juices/img-8.png" alt="juice">
+                                                </div>
+                                             </div>
+
+
+                                             <div class="swiper scrolling-slider">
+                                                <div class="swiper-wrapper"></div>
+                                                    <div class="swiper-slide scrolling-slider"></div>
+                                                        <div class="scrolling-slide-img">
+                                                            <img src="../design/pins/juices/img-7.png" alt="juice">
+                                                        </div>
+                                                     </div>
+
+                                                     <div class="swiper scrolling-slider">
+                                                        <div class="swiper-wrapper"></div>
+                                                            <div class="swiper-slide scrolling-slider"></div>
+                                                                <div class="scrolling-slide-img">
+                                                                    <img src="../design/pins/juices/img-6.png" alt="juice">
+                                                                </div>
+                                                             </div>
+
+                                                             <div class="swiper scrolling-slider">
+                                                                <div class="swiper-wrapper"></div>
+                                                                    <div class="swiper-slide scrolling-slider"></div>
+                                                                        <div class="scrolling-slide-img">
+                                                                            <img src="../design/pins/juices/img-5.png" alt="juice">
+                                                                        </div>
+                                                                     </div>
+
+                                                                     <div class="swiper scrolling-slider">
+                                                                        <div class="swiper-wrapper"></div>
+                                                                            <div class="swiper-slide scrolling-slider"></div>
+                                                                                <div class="scrolling-slide-img">
+                                                                                    <img src="../design/pins/juices/img-4.png" alt="juice">
+                                                                                </div>
+                                                                             </div>
+                                                                             <div class="swiper scrolling-slider">
+                                                                                <div class="swiper-wrapper"></div>
+                                                                                    <div class="swiper-slide scrolling-slider"></div>
+                                                                                        <div class="scrolling-slide-img">
+                                                                                            <img src="../design/pins/juices/img-3.png" alt="juice">
+                                                                                        </div>
+                                                                                     </div>
+                                                                                     <div class="swiper scrolling-slider">
+                                                                                        <div class="swiper-wrapper"></div>
+                                                                                            <div class="swiper-slide scrolling-slider"></div>
+                                                                                                <div class="scrolling-slide-img">
+                                                                                                    <img src="../design/pins/juices/img-2.png" alt="juice">
+                                                                                                </div>
+                                                                                             </div>
+                                                                                             <div class="swiper scrolling-slider">
+                                                                                                <div class="swiper-wrapper"></div>
+                                                                                                    <div class="swiper-slide scrolling-slider"></div>
+                                                                                                        <div class="scrolling-slide-img">
+                                                                                                            <img src="../design/pins/juices/img-1.png" alt="juice">
+                                                                                                        </div>
+                                                                                                     </div>
+
+        </div>             
+    </section>
+
+
+
+
+    <script>
+        // Função para carregar o conteúdo da index
+        function loadindex() {
+            const xhttp = new XMLHttpRequest();
+            xhttp.onload = function() {
+                document.getElementById("index").innerHTML = this.responseText;
+            }
+            xhttp.open("GET", "../code/index.html", true);
+            xhttp.send();
+        }
+
+        // Carregar a página
+        window.onload = loadindex;
+    </script>
+
+    <script src="../pagina principal/home.js"></script>
+
+</body>
+</html>
+

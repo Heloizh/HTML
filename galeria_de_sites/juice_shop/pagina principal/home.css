@@ -1,0 +1,30 @@
+.container__products-wrapper {
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+} 
+
+.container__products {
+    display: flex;
+    padding: 5% 0;
+    gap: 2rem;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+
+}
+
+.scrolling-slide-img img {
+    width: 15rem;
+    height: 25rem;
+    border-radius: 2rem;
+    object-fit: cover;
+    cursor: pointer;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2); 
+}
+
+
+.container__products::-webkit-scrollbar {
+    display: none;
+}
