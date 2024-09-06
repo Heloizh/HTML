@@ -2,7 +2,7 @@
 
 # Projeto de Rolagem Horizontal 
 
-![images](./)
+![images](./galeria_de_sites/juice_shop/paginas_images/paginaHome_scrolling/paginaHome)
 
 Este projeto é um site que apresenta uma seção de rolagem horizontal para exibir imagens de produtos. O objetivo é criar uma interface interativa onde os usuários podem visualizar e navegar por diferentes produtos de forma fluida.
 
