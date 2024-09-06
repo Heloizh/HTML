@@ -1,8 +1,10 @@
 
 
-# Projeto de Rolagem Horizontal com Setas
+# Projeto de Rolagem Horizontal 
 
-Este projeto é um site que apresenta uma seção de rolagem horizontal para exibir imagens de produtos, acompanhada de setas para navegação. O objetivo é criar uma interface interativa onde os usuários podem visualizar e navegar por diferentes produtos de forma fluida.
+[Visão Geral](paginas_images/paginaHome_scrolling/paginaHome.png)
+
+Este projeto é um site que apresenta uma seção de rolagem horizontal para exibir imagens de produtos. O objetivo é criar uma interface interativa onde os usuários podem visualizar e navegar por diferentes produtos de forma fluida.
 
 ## Estrutura do Projeto
 
@@ -95,9 +97,6 @@ O arquivo `home.html` define a estrutura da página home. Abaixo está a estrutu
     <div id="index"></div>
 
     <section id="scrolling">
-        <div class="scroll-left">
-            <button><i class='bx bxs-chevron-left'></i></button>
-        </div>
 
         <div class="container__products">
             <!-- Adicione as slides aqui -->
@@ -113,9 +112,6 @@ O arquivo `home.html` define a estrutura da página home. Abaixo está a estrutu
             </div>
         </div>             
 
-        <div class="scroll-right">
-            <button><i class='bx bxs-chevron-right'></i></button>
-        </div>    
     </section>
 
     <script src="home.js"></script>
@@ -143,40 +139,6 @@ O arquivo `style.css` e `home.css` são usados para estilizar a página. Abaixo 
     display: none;
 }
 
-/* Setas de navegação */
-.scroll-left, .scroll-right {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background: rgba(0, 0, 0, 0.5);
-    border: none;
-    color: white;
-    cursor: pointer;
-    z-index: 10;
-}
-
-.scroll-left {
-    left: 10px;
-}
-
-.scroll-right {
-    right: 10px;
-}
-
-/* Ícones das setas */
-.scroll-left i, .scroll-right i {
-    font-size: 24px;
-}
-
-/* Imagens dos slides */
-.scrolling-slide-img img {
-    width: 15rem;
-    height: 25rem;
-    border-radius: 2rem;
-    object-fit: cover;
-    cursor: pointer;
-    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2); 
-}
 ```
 
 ## Como Usar
