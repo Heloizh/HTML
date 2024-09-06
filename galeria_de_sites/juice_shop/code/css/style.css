@@ -1,0 +1,124 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+li, a, button {
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(43, 22, 62);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 3%;
+    background-color: rgb(125, 77, 154);
+}
+
+/*====== LOGO ======*/
+.logo {
+    cursor: pointer;
+}
+
+.logoIcon img {
+    width: 50px;
+    height: 50px;
+}
+
+
+/*====== LINKS DAS PÁGINAS ======*/
+.nav__links {
+    list-style: none;
+}
+
+.nav__links li {
+    display: inline-block;
+    transform: translateX(-50px);
+    padding: 0px 40px;
+}
+
+.nav__links li a {
+    transition: all 0.3s ease 0s;
+}
+
+.nav__links li a:hover {
+    color: rgb(224, 149, 224);
+}
+
+
+/*====== SEARCH ======*/
+.search__bar {
+    position: relative;
+}
+
+.search__bar input {
+    padding: 5px 150px 5px 10px;
+    transform: translateX(-70px);
+    background-color: white;
+    border-color: transparent;
+    border-radius: 10px;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.search__bar i {
+    position: absolute;
+    right: 75px;
+    top: 10%;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.search__bar i:hover {
+    color: rgb(106, 58, 151);
+}
+
+
+/*====== CART ======*/
+.cart__bar button {
+    cursor: pointer;
+    border: none;
+}
+
+.cart__bar button i{
+    font-size: 35px;
+    margin-left: -40px;
+    transition: all 0.3s ease 0s;
+}
+
+.cart__bar button i:hover {
+   color: rgb(224, 149, 224);
+}
+
+
+/*====== LOGIN ======*/
+.login {
+    transition: all 0.3s ease 0s;
+}
+
+.login:hover {
+    color: rgb(224, 149, 224);
+}
+
+
+
+/*====== MENU ======*/
+.nav__menu i {
+    cursor: pointer;
+    font-size: 40px;
+    transition: all 0.3s ease 0s;
+}
+
+.nav__menu i:hover {
+   color: rgb(224, 149, 224);
+}
+
