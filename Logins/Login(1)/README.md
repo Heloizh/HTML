@@ -17,7 +17,7 @@ Este é um exemplo simples de página de login desenvolvida com HTML, CSS e Java
 
 ## Prévia
 
-![Prévia da Página de Login](../Logins/Login(1)/image.png)
+![Prévia da Página de Login](./Login(1)/image.png)
 
 ## Instruções para Testes
 
