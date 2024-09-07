@@ -2,7 +2,7 @@
 
 # Projeto de Rolagem Horizontal 
 
-![Prévia da página](./paginas_images/paginaHome.png)
+![Prévia da página](./paginaprincipal/paginaHome.png)
 
 Este projeto é um site que apresenta uma seção de rolagem horizontal para exibir imagens de produtos. O objetivo é criar uma interface interativa onde os usuários podem visualizar e navegar por diferentes produtos de forma fluida.
 
