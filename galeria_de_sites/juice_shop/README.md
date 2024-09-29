@@ -157,6 +157,5 @@ O arquivo `style.css` e `home.css` são usados para estilizar a página. Abaixo 
 
 Sinta-se à vontade para contribuir para o projeto. Abra uma issue ou envie um pull request para sugestões ou melhorias.
 
----
 
-Sinta-se à vontade para ajustar o README conforme necessário para se adequar melhor ao seu projeto.
+
