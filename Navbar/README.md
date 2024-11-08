@@ -32,14 +32,6 @@ Abra o Arquivo HTML
 
 Abra o arquivo index.html no seu navegador para visualizar o componente em ação.
 
-## Personalize o Componente
-
-Substitua o texto e os links das opções de páginas conforme necessário.
-Atualize o logo com o arquivo de imagem desejado.
-Modifique os estilos no arquivo styles.css para se adequar ao design do seu site.
-Exemplo
-Veja um exemplo básico de como o componente é renderizado:
-
 
 ## Contribuições
 Sinta-se à vontade para contribuir com melhorias ou ajustes para este componente. Crie uma issue ou envie um pull request com suas sugestões!
